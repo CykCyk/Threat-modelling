@@ -3,7 +3,7 @@
   "summary": {
     "title": "Testowy Threat Model",
     "owner": "Dawid Lecyk",
-    "description": "Jest to aplikacja webowa, dzięki której klienci mają możliwość założenia konta, za pomocą którego mogą zamawiać części czy umawiać się na wizytę w lokalu.",
+    "description": "Jest to aplikacja webowa, dzięki której klienci mają możliwość założenia konta, za pomocą którego mogą tworzyć zgłoszenia serwisowe i umawiać się na wizytę w lokalu.",
     "id": 0
   },
   "detail": {
